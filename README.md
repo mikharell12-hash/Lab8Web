@@ -73,19 +73,19 @@ File `hapus.php` menerima ID barang dan menjalankan query `DELETE`. Pada daftar 
 
 ### Dashboard / Read
 
-![Pratinjau dashboard](screenshot/dashboard.png)
+![Pratinjau dashboard](screenshot/dashboard.svg)
 
 ### Form Tambah / Create
 
-![Pratinjau tambah barang](screenshot/tambah.png)
+![Pratinjau tambah barang](screenshot/tambah.svg)
 
 ### Form Ubah / Update
 
-![Pratinjau ubah barang](screenshot/ubah.png)
+![Pratinjau ubah barang](screenshot/ubah.svg)
 
 ### Konfirmasi Hapus / Delete
 
-![Pratinjau hapus barang](screenshot/hapus.png)
+![Pratinjau hapus barang](screenshot/hapus.svg)
 
 ## Catatan Implementasi
 
