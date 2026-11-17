@@ -46,7 +46,7 @@ $jumlah = mysqli_num_rows($result);
                 <?php if ($jumlah > 0): ?>
                     <?php while ($row = mysqli_fetch_assoc($result)): ?>
                     <tr>
-                        <td><div class="product-cell"><img class="product-thumb" src="gambar/<?= e($row['gambar'] ?: 'placeholder.jpg'); ?>" alt="<?= e($row['nama']); ?>"><div><strong><?= e($row['nama']); ?></strong><small>ID #<?= (int)$row['id_barang']; ?></small></div></div></td>
+                        <td><div class="product-cell"><img class="product-thumb" src="gambar/<?= e($row['gambar'] ?: 'placeholder.svg'); ?>" alt="<?= e($row['nama']); ?>"><div><strong><?= e($row['nama']); ?></strong><small>ID #<?= (int)$row['id_barang']; ?></small></div></div></td>
                         <td><span class="tag"><?= e($row['kategori']); ?></span></td>
                         <td><?= rupiah($row['harga_beli']); ?></td>
                         <td class="price-strong"><?= rupiah($row['harga_jual']); ?></td>
