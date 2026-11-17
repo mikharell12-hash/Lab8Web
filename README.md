@@ -97,7 +97,7 @@ File `hapus.php` menerima ID barang dan menjalankan query `DELETE`. Pada daftar 
 ## Penulis
 
 - **Nama:** Alleizandro Lim Hianto Prasetya
-- **NIM:** 312510395
+- **NIM:** 31251****
 - **Kelas:** I252A
 - **Program Studi:** Teknik Informatika
 - **Mata Kuliah:** Pemrograman Web
