@@ -1,0 +1,6 @@
+# File upload runtime (keep the sample product images)
+gambar/barang_*.jpg
+gambar/barang_*.jpeg
+gambar/barang_*.png
+gambar/barang_*.webp
+.DS_Store
